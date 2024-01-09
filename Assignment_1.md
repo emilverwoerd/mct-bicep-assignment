@@ -5,7 +5,7 @@ The first Excersie is to have a good editor (IDE). A developer or Cloud Integrat
 
 So find a solution to install VSCode with it's Bicep extension
 
-### Use full links
+### Useful links
 
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep
 - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install
